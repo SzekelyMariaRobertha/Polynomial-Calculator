@@ -18,12 +18,12 @@ The Model component corresponds to all the data-related logic that the user work
 Controllers act as an interface between the Model and View components to manipulate data using the Model component and interact with Views rendering the final output.
 
 ## Visuals
-Rules
+### Rules
 <div allign="center">
     <img src="https://user-images.githubusercontent.com/93877610/232545605-9babf4b1-f22e-4e17-b83a-4b53ba31c658.jpg" width="1000" height="200">
  </div>
     
-Add / Substract / Multiply / Derivate / Integrate
+### Add / Substract / Multiply / Derivate / Integrate
 <div allign="center">
     <img src="https://user-images.githubusercontent.com/93877610/232544801-b2ef6eac-805f-4f6a-8ce9-854f1501689c.jpg" width="190" height="350">
     <img src="https://user-images.githubusercontent.com/93877610/232544805-97f8b280-fa21-40ed-908b-4c4278a74e4f.jpg" width="190" height="350">
